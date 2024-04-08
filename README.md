@@ -1,6 +1,6 @@
 # Ender 3 v2Neo Klipper Config
 
-This config is part of a 2 printer config using KIAUH.
+This config is using an RPI Zero 2 W as its klipper server.
 
 The printer has been modified to use:
 
