@@ -20,5 +20,5 @@ This config has the following configured:
 - **Input shaping**
 - **RPI Pico MCU**
 - **Various custom macros**
-- klipper adaptive meshing
+- **klipper adaptive meshing**
 
