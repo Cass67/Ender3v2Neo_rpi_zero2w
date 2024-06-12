@@ -19,10 +19,6 @@ This config has the following configured:
 
 - **Input shaping**
 - **RPI Pico MCU**
-- **KAMP for adaptive mesh**
 - **Various custom macros**
+- klipper adaptive meshing
 
-## KAMP
-You will want to pull the kamp repo somewhere 
-https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
-and update the sym link to point to it if you chose to use this style of config.
